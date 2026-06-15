@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-15'
 papers:
   P_d6A68AAAAJ:2osOgNQ5qMEC:
     citations: 223
     title: Mechanically robust, electrically conductive and stimuli-responsive binary network hydrogels enabled by superelastic graphene aerogels
     year: '2014'
   P_d6A68AAAAJ:7PzlFSSx8tAC:
-    citations: 147
+    citations: 148
     title: Highly porous nanofiber-supported monolayer graphene membranes for ultrafast organic solvent nanofiltration
     year: '2021'
   P_d6A68AAAAJ:9yKSN-GCB0IC:
@@ -14,19 +14,19 @@ papers:
     title: Bio-inspired two-dimensional nanofluidic generators based on a layered graphene hydrogel membrane.
     year: '2013'
   P_d6A68AAAAJ:BqipwSGYUEgC:
-    citations: 22
+    citations: 24
     title: 'A review on phosphorus and metal phosphides as anodes for sodium-ion batteries: M. Ishaq et al.'
     year: '2025'
   P_d6A68AAAAJ:GnPB-g6toBAC:
-    citations: 6
+    citations: 7
     title: Surface engineering of polymer hydrogels toward functional soft material innovations
     year: '2025'
   P_d6A68AAAAJ:IWHjjKOFINEC:
-    citations: 8
+    citations: 9
     title: Bioinspired inhibition of aggregation in metal-organic frameworks (MOFs)
     year: '2023'
   P_d6A68AAAAJ:IjCSPb-OGe4C:
-    citations: 148
+    citations: 149
     title: "Self\u2010supporting graphene hydrogel film as an experimental platform to evaluate the potential of graphene for bone regeneration"
     year: '2013'
   P_d6A68AAAAJ:L8Ckcad2t8MC:
@@ -46,7 +46,7 @@ papers:
     title: "Structural and chemical interplay between nano-active and encapsulation materials in a core\u2013shell SnO 2@ MXene lithium ion anode system"
     year: '2021'
   P_d6A68AAAAJ:R3hNpaxXUhUC:
-    citations: 59
+    citations: 60
     title: Cascaded compression of size distribution of nanopores in monolayer graphene
     year: '2023'
   P_d6A68AAAAJ:RGFaLdJalmkC:
@@ -54,7 +54,7 @@ papers:
     title: Whole-ear finite element analysis of superior semicircular canal dehiscence and its impact on inner-ear responses
     year: '2025'
   P_d6A68AAAAJ:TFP_iSt0sucC:
-    citations: 11
+    citations: 12
     title: Highly efficient nanosized MoS2/MoP heterocatalyst for enhancing hydrogen evolution reaction over a wide pH range
     year: '2024'
   P_d6A68AAAAJ:Tyk-4Ss8FVUC:
@@ -62,7 +62,7 @@ papers:
     title: An equivalent 1D nanochannel model to describe ion transport in multilayered graphene membranes
     year: '2018'
   P_d6A68AAAAJ:UeHWp8X0CEIC:
-    citations: 279
+    citations: 280
     title: Ion transport in complex layered graphene-based membranes with tuneable interlayer spacing
     year: '2016'
   P_d6A68AAAAJ:W7OEmFMy1HYC:
@@ -98,7 +98,7 @@ papers:
     title: "Ion\u2010Transport Experiments to Probe the Nanostructure of Graphene/Polymer Membranes"
     year: '2018'
   P_d6A68AAAAJ:bEWYMUwI8FkC:
-    citations: 22
+    citations: 24
     title: "Strong interaction between molybdenum compounds and mesoporous CMK\u20105 supports boosts hydrogen evolution reaction"
     year: '2024'
   P_d6A68AAAAJ:d1gkVwhDpl0C:
@@ -114,7 +114,7 @@ papers:
     title: 'Dynamic electrosorption analysis: a viable liquid-phase characterization method for porous carbon?'
     year: '2013'
   P_d6A68AAAAJ:hC7cP41nSMkC:
-    citations: 90
+    citations: 93
     title: An abnormal size effect enables ampere-level O 2 electroreduction to hydrogen peroxide in neutral electrolytes
     year: '2023'
   P_d6A68AAAAJ:isC4tDSrTZIC:
@@ -142,7 +142,7 @@ papers:
     title: 'Protein adsorption on poly (N-isopropylacrylamide)-modified silicon surfaces: effects of grafted layer thickness and protein size'
     year: '2010'
   P_d6A68AAAAJ:qxL8FJ1GzNcC:
-    citations: 279
+    citations: 280
     title: Low-voltage electrostatic modulation of ion diffusion through layered graphene-based nanoporous membranes
     year: '2018'
   P_d6A68AAAAJ:u-x6o8ySG0sC:
@@ -150,10 +150,10 @@ papers:
     title: Ordered gelation of chemically converted graphene for next-generation electroconductive hydrogel films
     year: '2011'
   P_d6A68AAAAJ:u5HHmVD_uO8C:
-    citations: 2077
+    citations: 2079
     title: Liquid-mediated dense integration of graphene materials for compact capacitive energy storage
     year: '2013'
   P_d6A68AAAAJ:zYLM7Y9cAGgC:
     citations: 187
-    title: Multilayered Graphene Hydrogel Membranes for Guided Bone Regeneration.
+    title: Multilayered graphene hydrogel membranes for guided bone regeneration
     year: '2016'
