@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-24'
 papers:
   P_d6A68AAAAJ:2osOgNQ5qMEC:
     citations: 226
     title: Mechanically robust, electrically conductive and stimuli-responsive binary network hydrogels enabled by superelastic graphene aerogels
     year: '2014'
   P_d6A68AAAAJ:7PzlFSSx8tAC:
-    citations: 152
+    citations: 153
     title: Highly porous nanofiber-supported monolayer graphene membranes for ultrafast organic solvent nanofiltration
     year: '2021'
   P_d6A68AAAAJ:9yKSN-GCB0IC:
@@ -14,11 +14,11 @@ papers:
     title: Bio-inspired two-dimensional nanofluidic generators based on a layered graphene hydrogel membrane.
     year: '2013'
   P_d6A68AAAAJ:BqipwSGYUEgC:
-    citations: 25
+    citations: 27
     title: "A review on phosphorus and metal phosphides as anodes for sodium\u2010ion batteries"
     year: '2025'
   P_d6A68AAAAJ:GnPB-g6toBAC:
-    citations: 13
+    citations: 14
     title: Surface engineering of polymer hydrogels toward functional soft material innovations
     year: '2025'
   P_d6A68AAAAJ:IWHjjKOFINEC:
@@ -50,7 +50,7 @@ papers:
     title: "Structural and chemical interplay between nano-active and encapsulation materials in a core\u2013shell SnO2@MXene lithium ion anode system"
     year: '2021'
   P_d6A68AAAAJ:R3hNpaxXUhUC:
-    citations: 61
+    citations: 63
     title: Cascaded compression of size distribution of nanopores in monolayer graphene
     year: '2023'
   P_d6A68AAAAJ:RGFaLdJalmkC:
@@ -70,7 +70,7 @@ papers:
     title: An equivalent 1D nanochannel model to describe ion transport in multilayered graphene membranes
     year: '2018'
   P_d6A68AAAAJ:UeHWp8X0CEIC:
-    citations: 284
+    citations: 289
     title: Ion transport in complex layered graphene-based membranes with tuneable interlayer spacing
     year: '2016'
   P_d6A68AAAAJ:W7OEmFMy1HYC:
@@ -86,7 +86,7 @@ papers:
     title: "A Porous and Interconnected Polypyrrole Film with High Conductivity and Ion Accessibility as Electrode for Flexible All\u2010Solid\u2010State Supercapacitors"
     year: '2019'
   P_d6A68AAAAJ:Y0pCki6q_DkC:
-    citations: 136
+    citations: 137
     title: Molecular dynamics simulations of the electric double layer capacitance of graphene electrodes in mono-valent aqueous electrolytes
     year: '2016'
   P_d6A68AAAAJ:YFjsv_pBGBYC:
@@ -106,7 +106,7 @@ papers:
     title: "Ion\u2010Transport Experiments to Probe the Nanostructure of Graphene/Polymer Membranes"
     year: '2018'
   P_d6A68AAAAJ:bEWYMUwI8FkC:
-    citations: 25
+    citations: 26
     title: "Strong interaction between molybdenum compounds and mesoporous CMK\u20105 supports boosts hydrogen evolution reaction"
     year: '2024'
   P_d6A68AAAAJ:d1gkVwhDpl0C:
@@ -114,7 +114,7 @@ papers:
     title: 'Solvated graphenes: an emerging class of functional soft materials'
     year: '2013'
   P_d6A68AAAAJ:dhFuZR0502QC:
-    citations: 194
+    citations: 198
     title: Molecular size-dependent subcontinuum solvent permeation and ultrafast nanofiltration across nanoporous graphene membranes
     year: '2021'
   P_d6A68AAAAJ:eQOLeE2rZwMC:
@@ -122,7 +122,7 @@ papers:
     title: 'Dynamic electrosorption analysis: a viable liquid-phase characterization method for porous carbon?'
     year: '2013'
   P_d6A68AAAAJ:hC7cP41nSMkC:
-    citations: 97
+    citations: 98
     title: An abnormal size effect enables ampere-level O2 electroreduction to hydrogen peroxide in neutral electrolytes
     year: '2023'
   P_d6A68AAAAJ:isC4tDSrTZIC:
@@ -130,7 +130,7 @@ papers:
     title: Designing nanohydrogels/organosilica composite membranes to stabilize CO2 separation performance in dry and wet conditions
     year: '2025'
   P_d6A68AAAAJ:k_IJM867U9cC:
-    citations: 4
+    citations: 5
     title: "Reversibly Switching Hydrogen\u2010Responsive Palladium\u2013Graphene Composite Membranes"
     year: '2025'
   P_d6A68AAAAJ:lSLTfruPkqcC:
@@ -138,7 +138,7 @@ papers:
     title: Hidden polymorphic landscape in two-dimensional ZnO
     year: '2026'
   P_d6A68AAAAJ:mVmsd5A6BfQC:
-    citations: 100
+    citations: 101
     title: "Solvation\u2010involved nanoionics: new opportunities from 2D nanomaterial laminar membranes"
     year: '2020'
   P_d6A68AAAAJ:ns9cj8rnVeAC:
@@ -154,15 +154,15 @@ papers:
     title: 'Protein adsorption on poly (N-isopropylacrylamide)-modified silicon surfaces: effects of grafted layer thickness and protein size'
     year: '2010'
   P_d6A68AAAAJ:qxL8FJ1GzNcC:
-    citations: 288
+    citations: 291
     title: Low-voltage electrostatic modulation of ion diffusion through layered graphene-based nanoporous membranes
     year: '2018'
   P_d6A68AAAAJ:u-x6o8ySG0sC:
-    citations: 352
+    citations: 353
     title: Ordered gelation of chemically converted graphene for next-generation electroconductive hydrogel films
     year: '2011'
   P_d6A68AAAAJ:u5HHmVD_uO8C:
-    citations: 2091
+    citations: 2100
     title: Liquid-mediated dense integration of graphene materials for compact capacitive energy storage
     year: '2013'
   P_d6A68AAAAJ:zYLM7Y9cAGgC:
